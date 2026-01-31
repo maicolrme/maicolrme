@@ -1,4 +1,4 @@
-# 🚀 Full Stack Developer | SaaS, Fintech & Blockchain
+#  Full Stack Developer | SaaS, Fintech & Blockchain
 
 ## About Me
 Full Stack Developer specialized in building **scalable SaaS platforms** and **custom backend systems** for startups and digital businesses. I help transform ideas into **secure, production-ready products** using modern backend and frontend technologies.
@@ -8,8 +8,8 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 ## Tech Stack
 
 ### Backend
-- Laravel / Lumen
-- Node.js / Express
+- PHP Laravel / Lumen / Codeigniter
+- Node.js / Express /NestJs / AdonisJs
 - REST APIs
 - API Authentication (API Keys, 2FA)
 
@@ -29,6 +29,7 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 
 ### Databases
 - MySQL
+- Microsoft SQL Server 
 - PostgreSQL
 - MongoDB
 - Redis
