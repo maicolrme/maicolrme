@@ -1,4 +1,4 @@
-# Full Stack Developer | SaaS, Fintech & Blockchain
+# 🚀 Full Stack Developer | SaaS, Fintech & Blockchain
 
 ## About Me
 Full Stack Developer specialized in building **scalable SaaS platforms** and **custom backend systems** for startups and digital businesses. I help transform ideas into **secure, production-ready products** using modern backend and frontend technologies.
@@ -46,3 +46,21 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 - API Development
 - Service Automation
 - Long-term Collaborations & Freelance Work
+
+## Projects
+
+- **[LostFinderr](https://lostfinderr.com)**  
+  Platform focused on asset recovery and lost item tracking.
+
+- **[BulkTalent](https://bulktalent.com)**  
+  Talent recruitment and management solution for scaling teams.
+
+- **[FreeForDevs](https://freefordevs.com)**  
+  A comprehensive collection of free resources, tools, and services for developers.
+
+- **[DomainExo](https://domainexo.com)**  
+  Domain management and digital asset marketplace platform.
+
+- **[NettChain](https://nettchain.com)**  
+  Blockchain infrastructure and network integration solutions.
+
