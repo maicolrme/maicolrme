@@ -64,3 +64,6 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 - **[NettChain](https://nettchain.com)**  
   Blockchain infrastructure and network integration solutions.
 
+  - **[Spring Boot + Nuxt 4 CRUD](https://github.com/maicolrme/sprintBootNuxt)**  
+  Full-stack application featuring a Spring Boot 3.2 backend and Nuxt 4 frontend. Includes JWT authentication (stateless), Role-Based Access Control (RBAC), database migrations with   Flyway, and API documentation via Swagger/OpenAPI.
+
