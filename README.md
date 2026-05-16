@@ -9,7 +9,12 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 
 ### Backend
 - Laravel / Lumen
+- Django
+- FastAPI
 - Node.js / Express
+- AdonisJS
+- Spring Boot
+- PHP
 - REST APIs
 - API Authentication (API Keys, 2FA)
 
@@ -18,14 +23,7 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 - Nuxt
 - Bootstrap
 - Tailwind CSS
-
-### Blockchain & Fintech
-- Ethereum
-- Solana
-- ERC-20 Tokens
-- Wallet & Multi-Wallet Systems
-- Gas Relayers
-- Webhooks & Automation
+- Alpine.js
 
 ### Databases
 - MySQL
@@ -33,12 +31,40 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 - MongoDB
 - Redis
 
+### Blockchain & Fintech
+- Ethereum
+- Solana
+- ERC-20 Tokens
+- Bitcoin
+- Litecoin
+- Web3
+- Wallet & Multi-Wallet Systems
+- Gas Relayers
+- Webhooks & Automation
+
 ### DevOps & Cloud
 - Linux Server Administration
 - AWS (EC2, S3)
 - Google Cloud
 - DigitalOcean
+- Docker
 - CI/CD & Git
+
+### Inteligencia Artificial
+- TensorFlow
+- PyTorch
+- OpenCV
+- Scikit-Learn
+- LangChain
+- Hugging Face
+- Ollama
+- DeepSeek R4
+
+### Automatización
+- GitHub Actions
+- Jenkins
+- Terraform
+- n8n
 
 ## Interests
 - SaaS & Startup Products
@@ -51,46 +77,46 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 
 - **[LostFinderr](https://lostfinderr.com)**  
   Platform focused on asset recovery and lost item tracking.  
-  <img src="screenshots/lostfinderr.png" width="200" alt="LostFinderr Screenshot">
+  <img src="web/screenshots/lostfinderr.png" width="200" alt="LostFinderr Screenshot">
 
 - **[DevSee](https://devsee.pro)**  
   Talent recruitment and management solution for scaling teams.  
-  <img src="screenshots/bulktalent.png" width="200" alt="DevSee Screenshot">
+  <img src="web/screenshots/bulktalent.png" width="200" alt="DevSee Screenshot">
 
 - **[FreeForDevs](https://freefordevs.com)**  
   A comprehensive collection of free resources, tools, and services for developers.  
-  <img src="screenshots/freefordevs.png" width="200" alt="FreeForDevs Screenshot">
+  <img src="web/screenshots/freefordevs.png" width="200" alt="FreeForDevs Screenshot">
 
 - **[DomainExo](https://domainexo.com)**  
   Domain management and digital asset marketplace platform.  
-  <img src="screenshots/domainexo.png" width="200" alt="DomainExo Screenshot">
+  <img src="web/screenshots/domainexo.png" width="200" alt="DomainExo Screenshot">
 
 - **[NettChain](https://nettchain.com)**  
   Blockchain infrastructure and network integration solutions.  
-  <img src="screenshots/nettchain.png" width="200" alt="NettChain Screenshot">
+  <img src="web/screenshots/nettchain.png" width="200" alt="NettChain Screenshot">
 
 - **[NettChain PHP SDK](https://github.com/nettchain/phpsdk)**  
   PHP SDK for integrating with the NettChain blockchain API. Supports wallet operations, transactions, and smart contract interactions.  
-  <img src="screenshots/nettchain-phpsdk.png" width="200" alt="NettChain PHP SDK Screenshot">
+  <img src="web/screenshots/nettchain-phpsdk.png" width="200" alt="NettChain PHP SDK Screenshot">
 
 - **[Spring Boot + Nuxt 4 CRUD](https://github.com/maicolrme/sprintBootNuxt)**  
   Full-stack application featuring a Spring Boot 3.2 backend and Nuxt 4 frontend. Includes JWT authentication (stateless), Role-Based Access Control (RBAC), database migrations with Flyway, and API documentation via Swagger/OpenAPI.  
-  <img src="screenshots/springboot-nuxt.png" width="200" alt="Spring Boot + Nuxt CRUD Screenshot">
+  <img src="web/screenshots/springboot-nuxt.png" width="200" alt="Spring Boot + Nuxt CRUD Screenshot">
 
 - **[Team4Labs](https://team4labs.com)**  
   Platform built with Nuxt 4, Laravel backend, DigitalOcean cloud, Redis, and PostgreSQL.  
-  <img src="screenshots/team4labs.png" width="200" alt="Team4Labs Screenshot">
+  <img src="web/screenshots/team4labs.png" width="200" alt="Team4Labs Screenshot">
 
 - **[Exchanger21](http://exchanger21.devsee.pro)**  
   Cryptocurrency exchange platform built with AdonisJS backend, Nuxt 4, DigitalOcean, Redis, MySQL, Docker. Features matching engine, P2P marketplace, and real-time events.  
-  <img src="screenshots/exchanger21.png" width="200" alt="Exchanger21 Screenshot">
+  <img src="web/screenshots/exchanger21.png" width="200" alt="Exchanger21 Screenshot">
 
 - **[P2P Market](http://p2pmarket.devsee.pro)**  
   Local P2P marketplace with Laravel backend, microservices for cryptocurrencies (Bitcoin, Ethereum, Litecoin), MySQL, Redis, MongoDB, Docker, and real-time event handling.  
-  <img src="screenshots/p2pmarket.png" width="200" alt="P2P Market Screenshot">
+  <img src="web/screenshots/p2pmarket.png" width="200" alt="P2P Market Screenshot">
 
 - **[DateOnline](https://date-online.app)**  
   Dating/meeting application demo built with Laravel 11, Tailwind CSS, Alpine.js, and MySQL.  
-  <img src="screenshots/dateonline.png" width="200" alt="DateOnline Screenshot">
+  <img src="web/screenshots/dateonline.png" width="200" alt="DateOnline Screenshot">
 
 
