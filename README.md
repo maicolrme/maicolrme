@@ -1,4 +1,4 @@
-# 🚀 Full Stack Developer | SaaS, Fintech & Blockchain
+#  Full Stack Developer | SaaS, Fintech & Blockchain
 
 ## About Me
 Full Stack Developer specialized in building **scalable SaaS platforms** and **custom backend systems** for startups and digital businesses. I help transform ideas into **secure, production-ready products** using modern backend and frontend technologies.
