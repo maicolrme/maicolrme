@@ -51,10 +51,8 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 - CI/CD & Git
 
 ### Inteligencia Artificial
-- TensorFlow
-- PyTorch
+
 - OpenCV
-- Scikit-Learn
 - LangChain
 - Hugging Face
 - Ollama
