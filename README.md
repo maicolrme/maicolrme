@@ -73,23 +73,23 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 
 ## Projects
 
-- **[LostFinderr](https://lostfinderr.com)**  
+- **[LostFinderr](https://lostfinderr.apps.maicolrme.dev)**  
   Platform focused on asset recovery and lost item tracking.  
 
 
-- **[DevSee](https://devsee.pro)**  
+- **[DevSee](https://devsee.apps.maicolrme.dev)**  
   Talent recruitment and management solution for scaling teams.  
 
 
-- **[FreeForDevs](https://freefordevs.com)**  
+- **[FreeForDevs](https://freefordevs.apps.maicolrme.dev)**  
   A comprehensive collection of free resources, tools, and services for developers.  
  
 
-- **[DomainExo](https://domainexo.com)**  
+- **[DomainExo](https://domainexo.apps.maicolrme.dev)**  
   Domain management and digital asset marketplace platform.  
 
 
-- **[NettChain](https://nettchain.com)**  
+- **[NettChain](https://nettchain.apps.maicolrme.dev)**  
   Blockchain infrastructure and network integration solutions.  
 
 
@@ -101,19 +101,19 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
   Full-stack application featuring a Spring Boot 3.2 backend and Nuxt 4 frontend. Includes JWT authentication (stateless), Role-Based Access Control (RBAC), database migrations with Flyway, and API documentation via Swagger/OpenAPI.  
 
 
-- **[Team4Labs](https://team4labs.com)**  
+- **[Team4Labs](https://team4labs.apps.maicolrme.dev)**  
   Platform built with Nuxt 4, Laravel backend, DigitalOcean cloud, Redis, and PostgreSQL.  
 
 
-- **[Exchanger21](http://exchanger21.devsee.pro)**  
+- **[Exchanger21](http://exchanger21.apps.maicolrme.dev)**  
   Cryptocurrency exchange platform built with AdonisJS backend, Nuxt 4, DigitalOcean, Redis, MySQL, Docker. Features matching engine, P2P marketplace, and real-time events.  
 
 
-- **[P2P Market](http://p2pmarket.devsee.pro)**  
+- **[P2P Market](http://p2pmarket.apps.maicolrme.dev)**  
   Local P2P marketplace with Laravel backend, microservices for cryptocurrencies (Bitcoin, Ethereum, Litecoin), MySQL, Redis, MongoDB, Docker, and real-time event handling.  
 
 
-- **[DateOnline](https://date-online.app)**  
+- **[DateOnline](https://dateonline.apps.maicolrme.dev)**  
   Dating/meeting application demo built with Laravel 11, Tailwind CSS, Alpine.js, and MySQL.  
 
 
