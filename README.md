@@ -185,4 +185,12 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 - **[OmeLink](https://omelink.app2.maicolrme.dev)**  
   Omegle-style random chat. Text conversations and end-to-end encrypted WebRTC video calls with strangers worldwide. Built with React, Vite, WebRTC and WebSocket.  
 
+
+- **[Inmobiliaria](https://inmobiliaria.app2.maicolrme.dev)**  
+  Inmobiliaria: web application built by Maicol Romero.  
+
+
+- **[Farmacia](https://farmacia.app2.maicolrme.dev)**  
+  Farmacia: web application built by Maicol Romero.  
+
 <!-- PROYECTOS:FIN -->
