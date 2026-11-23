@@ -102,11 +102,11 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
   Full-stack CRUD with Spring Boot 3.2 backend and Nuxt 4 frontend. JWT auth, RBAC, Flyway, Swagger. Built with Spring Boot, Java 17, Nuxt 4, PostgreSQL and Docker.  
 
 
-- **[Team4Labs](https://team4labs.apps.maicolrme.dev)**  
+- **[Team4Labs](https://team4labs.com)**  
   Collaborative workspace platform with Kanban boards, shared docs, file management, and team communication. Built with Nuxt 4, Laravel, PostgreSQL, Redis and DigitalOcean.  
 
 
-- **[Exchanger21](http://exchanger21.devsee.pro)**  
+- **[Exchanger21](https://exc21.apps.maicolrme.dev)**  
   Cryptocurrency exchange with matching engine, P2P marketplace, and real-time trading events. Built with AdonisJS, Nuxt 4, MySQL, Redis and Docker.  
 
 
