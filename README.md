@@ -86,7 +86,7 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
   Comprehensive collection of free resources, tools, and services for developers worldwide. Built with Vue.js, Nuxt, Laravel, MySQL and Redis.  
 
 
-- **[DomainExo](https://domainexo.apps.maicolrme.dev)**  
+- **[DomainExoDemo2](https://domainexo.apps.maicolrme.dev)**  
   Domain management and digital asset marketplace platform. Buy, sell, and manage domain names. Built with Vue.js, Nuxt, Laravel, MySQL and Redis.  
 
 
@@ -196,5 +196,13 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 
 - **[Periosalud](https://periosalud.app2.maicolrme.dev/)**  
   Periosalud: web application built by Maicol Romero.  
+
+
+- **[DomainExo](https://domainexo.com)**  
+  DomainExo: web application built by Maicol Romero.  
+
+
+- **[Team4Labs_demo_1](https://team4labs.apps.maicolrme.dev)**  
+  Team4Labs_demo_1: web application built by Maicol Romero.  
 
 <!-- PROYECTOS:FIN -->
