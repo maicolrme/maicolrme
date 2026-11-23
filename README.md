@@ -193,4 +193,8 @@ Strong experience in **fintech and blockchain**, working with Ethereum and Solan
 - **[Farmacia](https://farmacia.app2.maicolrme.dev)**  
   Farmacia: web application built by Maicol Romero.  
 
+
+- **[Periosalud](https://periosalud.app2.maicolrme.dev/)**  
+  Periosalud: web application built by Maicol Romero.  
+
 <!-- PROYECTOS:FIN -->
